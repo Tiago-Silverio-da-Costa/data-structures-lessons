@@ -1,4 +1,4 @@
-# Algoritmo Breadth-First Search (BFS)
+# Algoritmo Breadth-First Search (BFS ou pesquisa em largura)
 
 ## Introdução ao BFS
 O Breadth-First Search (BFS) é um algoritmo utilizado para percorrer ou buscar em estruturas de dados como **árvores** ou **grafos**. Ele explora todos os vértices de um nível antes de passar para o próximo nível. O BFS utiliza uma **fila (queue)** para gerenciar os vértices a serem explorados, garantindo uma ordem de visita em camadas.
